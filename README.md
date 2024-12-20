@@ -1,3 +1,4 @@
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/05/22/18/66/1000_F_522186651_sjPyyCdVMZslnyIaM7HFRB2XQP22pFp2.jpg)
 <h1 align="center">Hi 👋, I'm Manjunath Koripalli</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
